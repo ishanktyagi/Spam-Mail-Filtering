@@ -2,7 +2,7 @@
 Natural Language Processing for Text Classification with NLTK and Scikit-learn
 
 PREPROCESSING STEPS:
-  -Tokenizing
+  -Tokenizing \n
   -Part-of-speech tagging
   -Stemming
   -Chunking 
